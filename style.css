@@ -7,15 +7,16 @@ body{
 }
 .heading2{
     font-size: 35px;
-    color: chartreuse;
 }
 .heading-color{
     color: chartreuse;
 }
 section{
-    display: flex;
-    padding-left: 45px;
+    padding-left: 5%;
     margin-bottom: 150px;
+}
+.twothird{
+    display: flex;
 }
 .top-banner{
     background-image: url(images/backgroundedited.png);
@@ -53,6 +54,26 @@ section{
     font-weight: bold;
 }
 .boldh1{
-    color: chartreuse;
+    color: darkgreen;
     font-weight: bold;
+}
+.last-part{
+    width: 45%;
+    margin-right: 5%;
+    padding: 25px;
+    text-align: justify;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px rgb(134, 133, 133);
+    border-left: 10px solid darkgreen;
+}
+.cernter{
+    text-align: center;
+}
+#lasthl{
+    font-weight: 900;
+    font-size: 40px;
+    text-shadow: 10px 10px 15px rgb(98, 98, 98) ;
+    text-align: center;
+    color: darkgreen;
+    
 }
