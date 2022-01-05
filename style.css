@@ -1,0 +1,36 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+.heading1{
+    font-size: 50px;
+}
+.heading2{
+    font-size: 35px;
+}
+.heading-color{
+    color: chartreuse;
+}
+section{
+    display: flex;
+}
+.top-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+.half-width{
+    width: 50%;
+    padding: 2%;
+}
+.half-width img {
+    width: 85%;
+}
+.Play-as-button{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(21, 255, 0), rgb(35, 184, 35)) ;
+    color: rgb(0, 0, 0);
+    padding: 10px 30px;
+    border-radius: 10px;
+    font-size: larger;
+    font-weight: 700;
+}
