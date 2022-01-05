@@ -75,7 +75,7 @@ section{
     font-weight: 900;
     font-size: 40px;
     text-shadow: 10px 10px 20px rgba(98, 98, 98, 0.808) ;
-    text-align: center;
+    text-align: left;
     color: darkgreen;
 }
 footer p {
