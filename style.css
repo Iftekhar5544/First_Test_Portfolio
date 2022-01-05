@@ -13,9 +13,12 @@ body{
 }
 section{
     display: flex;
+    padding-left: 45px;
+    margin-bottom: 150px;
 }
 .top-banner{
-    background-image: url(images/top-banner.png);
+    background-image: url(images/backgroundedited.png);
+    background-size: 50%;
     background-repeat: no-repeat;
 }
 .half-width{
@@ -33,4 +36,13 @@ section{
     border-radius: 10px;
     font-size: larger;
     font-weight: 700;
+}
+.special-abilities{
+    background-image: url(images/second-ring-bg.png);
+    background-size: 50%;
+    background-repeat: no-repeat;
+    background-position: right;
+}
+#middle2{
+    padding-top: 60px;
 }
